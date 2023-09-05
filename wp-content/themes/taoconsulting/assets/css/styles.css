@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200;1,400&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Navigation bar */
+.navBg {
+    background-image: linear-gradient(to right, #dedddd, #dedede);
+}
+.headingH1 {
+    font-weight: 300;
+    font-size: 40px;
+}
+
+/* Footer */
+.footerBg {
+    background-image: linear-gradient(to right, #dedddd, #dedede);
+}
+.menu-item  {
+    color: #212529 !important;
+    text-decoration: none !important;
+}
+.menu-item :hover {
+    color: #666a6f;
+}
