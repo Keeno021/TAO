@@ -1,5 +1,4 @@
 <?php
-echo"hgeklooo";
 /**
  * WordPress User Page
  *
