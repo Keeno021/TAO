@@ -43,7 +43,7 @@ if (!is_scalar($container_class) || empty($container_class)) {
             <div class="row">
                 <div class="col-md-6 col-sm-12 mt-3 mb-3">
                     <h1 class="headingH1">Tao Consulting services</h1>
-                    <h1>Hello World</h1>
+                    <h1>Hello World1</h1>
                 </div>
                 <div class="col-md-6 col-sm-12">
                     <nav class="navbar navbar-light navbar-expand-md navigation-clean">
